@@ -1,0 +1,1 @@
+This file contains a combined code for gender Prediction , Age estimation , and mood prediction all the required files are provided inside the repo along with the yolo weights file and all the pretrained models 
